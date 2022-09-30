@@ -1,54 +1,63 @@
 ,1_soc,X_soc,2_soc,under_soc,goals_soc,over_soc,teams_matched,1_adm,X_adm,2_adm,under_adm,goals_adm,over_adm,teams_matched2,score,Unnamed: 0,teams,1_star,X_star,2_star,under_star,goals_star,over_star
-0,1.45,4.6,5.75,2.6,2.5,1.45,Bayern Munich 2 Greuther Furth 2,1.39,4.8,6.2,2.55,2.5,1.45,Bayern Münchenn II  Greuther Fürth II,76,289,Bayern Münchenn II  Greuther Fürth II,1.40,4.45,6.25,2.35,2.5,1.51
-1,1.85,3.85,3.5,2.2,2.5,1.6,Vilzing Rain Lech,1.91,3.4,3.7,2.12,2.5,1.64,DJK Vilzing  Rain am Lech,83,290,DJK Vilzing  Rain am Lech,1.80,3.70,3.7,2.2,2.5,1.57
-2,1.95,3.05,4.0,1.4,2.5,2.7,Arba El Bayadh,2.08,2.7,4.5,1.32,2.5,3.1,RC Arbaa  El Bayadh,88,575,RC Arbaa  El Bayadh,1.99,2.90,4.0,1.34,2.5,2.95
-3,1.25,4.5,11.3,1.75,2.5,1.97,MO Constantine Skikda,1.27,4.75,11.0,1.72,2.5,1.99,MO Constantine  Skikda,100,580,MO Constantine  Skikda,1.23,4.45,10.5,,2.5,3.60
-4,1.45,3.65,7.2,1.57,2.5,2.25,Temouchent RC Kouba,1.48,3.8,6.7,1.57,2.5,2.25,Temouchent  RC Kouba,100,579,Temouchent  RC Kouba,1.45,3.65,7.0,0.25,2.5,4.45
-5,1.4,3.5,9.4,1.45,2.5,2.55,ASM Oran Saida,1.45,3.5,8.75,1.39,2.5,2.75,ASM Oran  MC Saida,90,578,ASM Oran  MC Saida,1.38,3.65,9.0,,2.5,5.05
-6,2.05,2.9,3.6,1.6,2.5,2.2,Mostaganem WA Boufarik,2.03,3.25,3.45,1.6,2.5,2.18,Mostaganem  WA Boufarik,100,581,Mostaganem  WA Boufarik,1.96,3.25,3.6,0.13,2.5,3.95
-7,1.3,4.35,8.9,1.85,2.5,1.85,Hussein Dey RC Relizane,1.28,4.85,10.0,1.84,2.5,1.86,Hussein Dey  Relizane,93,582,Hussein Dey  Relizane,1.30,4.50,8.5,,2.5,3.00
-8,2.45,3.45,2.55,2.05,2.5,1.68,Lippstadt Ahlen,2.5,3.35,2.55,2.1,2.5,1.66,Lippstadt 08  Ahlen,91,309,Lippstadt 08  Ahlen,2.35,3.50,2.6,2.15,2.5,1.60
-9,2.4,3.5,2.6,2.25,2.5,1.55,Dornbirn Austria Viennna 2,2.38,3.7,2.7,2.38,2.5,1.52,Dornbirn  Austria W. II,77,493,Dornbirn  Austria W. II,2.20,3.60,2.8,2.3,2.5,1.54
-10,1.4,4.6,6.75,2.35,2.5,1.52,First Vienna Kapfenberg,1.46,4.65,6.3,2.5,2.5,1.48,First Vienna  Kapfenberg,100,491,First Vienna  Kapfenberg,1.42,4.50,6.25,2.4,2.5,1.50
-11,3.05,3.45,2.15,2.07,2.5,1.67,Vorwarts Steyr Horn,3.1,3.5,2.2,2.1,2.5,1.67,Vorwarts Steyr  Horn,100,492,Vorwarts Steyr  Horn,3.25,3.45,2.08,2.08,2.5,1.70
-12,3.4,3.7,2.1,2.33,2.5,1.6,Hannover Hamburger,3.3,3.75,2.08,2.3,2.5,1.6,Hannover  Hamburger,100,269,Hannover  Hamburger,3.40,3.70,2.03,2.35,2.5,1.60
-13,2.3,3.95,2.85,2.65,2.5,1.5,Paderborn Darmstadt,2.25,3.7,2.95,2.62,2.5,1.48,Paderborn 07  Darmstadt,93,268,Paderborn 07  Darmstadt,2.17,3.70,2.95,2.55,2.5,1.52
-14,1.45,4.7,5.65,2.55,2.5,1.45,Unterhaching SpVgg Ansbach 09,1.43,4.7,5.6,2.65,2.5,1.42,Unterhaching  SpVgg Ansbach,95,298,Unterhaching  SpVgg Ansbach,1.42,4.50,5.9,2.55,2.5,1.44
-15,1.75,3.75,4.05,2.15,2.5,1.62,Kickers Offenbach Barockstadt Fulda Lehnerz,1.7,3.75,4.25,2.18,2.5,1.6,Kickers Offenbach  Fulda-Lehnerz,84,329,Kickers Offenbach  Fulda-Lehnerz,1.71,3.70,4.15,2.14,2.5,1.61
-16,1.62,4.05,4.5,2.25,2.5,1.58,Steinbach Haiger Aalen,1.65,4.05,4.2,2.35,2.5,1.53,Steinbach Haiger  Aalen,100,330,Steinbach Haiger  Aalen,1.64,3.85,4.4,2.25,2.5,1.55
-17,2.0,3.55,3.25,2.05,2.5,1.7,Eintracht Trier Rot Weiss Koblenz,1.94,3.4,3.55,1.99,2.5,1.72,Eintracht Trier  TuS RW Koblenz,86,328,Eintracht Trier  TuS RW Koblenz,2.00,3.45,3.25,1.99,2.5,1.70
-18,1.6,3.9,5.05,1.93,2.5,1.77,Ulm Balingen,1.56,3.8,5.4,1.95,2.5,1.76,Ulm  TSG Balingen,86,331,Ulm  TSG Balingen,1.57,3.75,5.15,1.93,2.5,1.75
-19,3.1,3.55,2.1,1.97,2.5,1.75,BSV Rehden Drochtersen Assel,3.2,3.55,2.02,2.07,2.5,1.67,Schwarz-Weis Rehden  Drochtersen/Assel,74,300,Schwarz-Weis Rehden  Drochtersen/Assel,2.95,3.50,2.08,2.02,2.5,1.66
-20,2.2,3.4,2.95,2.1,2.5,1.65,Lokomotive Leipzig Erfurt,2.28,3.3,2.85,2.15,2.5,1.63,Lokomotive Leipzig  RW Erfurt,94,320,Lokomotive Leipzig  RW Erfurt,2.13,3.50,2.95,2.14,2.5,1.61
-21,3.2,3.4,2.1,1.9,2.5,1.8,Viktoria Berlin BFC Dynamo,3.1,3.4,2.12,1.89,2.5,1.81,Viktoria Berlin  BFC Dynamo,100,321,Viktoria Berlin  BFC Dynamo,3.15,3.35,2.08,1.91,2.5,1.76
-22,2.55,3.3,2.55,2.25,2.5,1.57,Aschaffenburg Turkgucu Munchen,2.45,3.6,2.5,2.25,2.5,1.57,V. Aschaffenburg  Turkgucu Munchen,97,292,V. Aschaffenburg  Turkgucu Munchen,2.35,3.55,2.55,2.25,2.5,1.54
-23,1.9,3.7,3.5,2.3,2.5,1.55,Augsburg 2 Hankofen Hailing,1.85,3.8,3.5,2.35,2.5,1.52,Augsburg II  Hankofen-Hailing,91,293,Augsburg II  Hankofen-Hailing,1.83,3.75,3.55,2.3,2.5,1.52
-24,2.75,3.15,2.45,1.7,2.5,2.02,Buchbach Pipinsried,2.8,3.15,2.4,1.67,2.5,2.07,Buchbach  FC Pipinsried,93,294,Buchbach  FC Pipinsried,2.75,3.10,2.4,1.63,2.5,2.11
-25,2.5,3.5,2.5,2.35,2.5,1.52,Burghausen TSV Aubstadt,2.4,3.5,2.55,2.4,2.5,1.5,Burghausen  TSV Aubstadt,100,295,Burghausen  TSV Aubstadt,2.25,3.60,2.65,2.35,2.5,1.51
-26,7.0,5.4,1.32,3.1,2.5,1.32,Heimstetten Wurzburger Kickers,6.7,5.2,1.34,3.35,2.5,1.28,Heimstetten  Wurzburger Kickers,100,296,Heimstetten  Wurzburger Kickers,6.50,4.95,1.34,3.0,2.5,1.32
-27,3.2,3.7,2.0,2.3,2.5,1.55,Illertissen Nurnberg 2,3.1,3.65,2.04,2.4,2.5,1.51,Illertissen  Nurnberg II,93,297,Illertissen  Nurnberg II,3.30,3.70,1.92,2.35,2.5,1.51
-28,1.6,4.0,4.7,2.42,2.5,1.5,Schweinfurt Eichstatt,1.61,4.05,4.55,2.55,2.5,1.45,Schweinfurt  Eichstätt,98,291,Schweinfurt  Eichstätt,1.59,4.05,4.5,2.5,2.5,1.45
-29,2.1,3.5,3.35,1.95,2.5,1.77,Aue Meppen,2.2,3.3,3.2,1.92,2.5,1.8,Aue  Meppen,100,278,Aue  Meppen,2.00,3.50,3.4,1.96,2.5,1.79
-30,1.88,3.75,3.2,2.55,2.5,1.45,Wiener Sport Club Mauerwerk,1.92,3.8,3.25,2.55,2.5,1.46,Wiener SK  Mauerwerk,78,511,Wiener SK  Mauerwerk,1.71,3.85,3.5,2.45,2.5,1.43
-31,2.7,3.3,2.3,1.97,2.5,1.75,Traiskirchen TWL Elektra,2.75,3.15,2.45,1.9,2.5,1.8,Traiskirchen  ASK Elektra,83,510,Traiskirchen  ASK Elektra,2.75,3.30,2.25,1.94,2.5,1.71
-32,11.1,5.9,1.18,2.85,2.5,1.37,Vocklamarkt WSC Wels,15.0,6.8,1.14,3.0,2.5,1.33,Un. Vocklamarkt  WSC Herta Wels,82,505,Un. Vocklamarkt  WSC Herta Wels,9.75,5.80,1.2,5.0,2.5,1.38
-33,1.8,4.1,3.5,2.85,2.5,1.37,VV Alkmaar W Excelsior W,1.75,4.15,3.6,2.9,2.5,1.36,VV Alkmaar (W)  Excelsior (W),100,450,VV Alkmaar (W)  Excelsior (W),1.79,4.10,3.35,3.05,2.5,1.32
-34,3.6,4.0,1.8,2.6,2.5,1.45,Zwolle W Fortuna Sittard W,3.85,3.9,1.74,2.6,2.5,1.44,PEC Zwolle (W)  Fortuna Sittard (W),93,451,PEC Zwolle (W)  Fortuna Sittard (W),3.80,4.00,1.71,2.5,2.5,1.44
-35,1.85,3.75,3.65,2.1,2.5,1.65,Hannover 2 Hildesheim,1.77,3.75,3.9,2.28,2.5,1.56,Hannover II  Borussia 06 Hildesheim,73,301,Hannover II  Borussia 06 Hildesheim,1.77,3.75,3.65,2.19,2.5,1.55
-36,2.05,3.7,3.1,2.2,2.5,1.6,Oberhausen Duren,2.1,3.55,3.0,2.22,2.5,1.59,Oberhausen  Duren,100,310,Oberhausen  Duren,1.96,3.60,3.25,2.19,2.5,1.58
-37,2.2,3.75,2.6,2.75,2.5,1.4,ASV Drassburg Kremser,2.38,3.6,2.55,2.65,2.5,1.42,Drassburg  Kremser SC,83,509,Drassburg  Kremser SC,1.95,3.70,2.75,2.6,2.5,1.38
-38,2.75,3.55,2.15,2.22,2.5,1.58,SC Weiz Gleisdorf,2.5,3.6,2.4,2.3,2.5,1.54,Weiz  Gleisdorf,90,504,Weiz  Gleisdorf,2.65,3.55,2.22,2.23,2.5,1.53
-39,1.9,3.9,3.1,2.85,2.5,1.37,Kalsdorf Treibach,1.87,4.33,3.1,3.05,2.5,1.33,Kalsdorf  Treibach Al.,92,503,Kalsdorf  Treibach Al.,1.91,3.90,2.9,2.85,2.5,1.32
-40,2.3,3.55,2.55,2.48,2.5,1.47,Deutschlandsberger Bad Gleichenberg,2.3,3.4,2.75,2.55,2.5,1.45,Deutschlandsberger  Bad Gleichenberg,100,502,Deutschlandsberger  Bad Gleichenberg,2.08,3.80,2.75,2.5,2.5,1.43
-41,1.95,3.15,3.9,1.6,2.5,2.18,FC Martigues Paris 13 Atletico,2.05,3.15,3.75,1.62,2.5,2.18,Martigues  Paris 13 Atletico,95,243,Martigues  Paris 13 Atletico,1.95,3.15,3.75,1.59,2.5,2.16
-42,1.8,3.5,4.1,1.8,2.5,1.9,Nancy Cholet,1.81,3.5,4.3,1.79,2.5,1.93,Nancy  Cholet,100,245,Nancy  Cholet,1.76,3.40,4.25,1.77,2.5,1.91
-43,2.3,3.15,2.95,1.65,2.5,2.08,Orleans Villefranche,2.5,3.1,2.88,1.62,2.5,2.18,Orleans  Villefranche,100,244,Orleans  Villefranche,2.40,3.10,3.0,1.62,2.5,2.20
-44,1.18,6.7,11.4,3.2,2.5,1.3,Feyenoord Rotterdam W SC Telstar VVNH W,1.15,7.3,12.0,3.2,2.5,1.29,Feyenoord (W)  Telstar (W),70,452,Feyenoord (W)  Telstar (W),1.20,5.60,8.5,0.0,2.5,1.29
-45,2.45,3.65,2.5,2.43,2.5,1.5,Yverdon Aarau,2.45,3.7,2.55,2.45,2.5,1.5,Yverdon  Aarau,100,523,Yverdon  Aarau,2.30,3.70,2.6,2.4,2.5,1.51
-46,2.3,3.3,2.85,1.97,2.5,1.75,Virton Club Brugge KV U23,2.35,3.25,3.0,1.88,2.5,1.84,Excelsior Virton  Club Brugge U23,81,465,Excelsior Virton  Club Brugge U23,2.22,3.45,3.0,2.01,2.5,1.75
-47,2.05,3.6,3.15,2.05,2.5,1.7,Genk U23 Dender,2.03,3.5,3.45,2.1,2.5,1.67,Genk U23  Dender,100,464,Genk U23  Dender,1.95,3.50,3.6,2.08,2.5,1.70
-48,2.5,3.35,2.75,1.85,2.5,1.85,Almere City Roda,2.45,3.35,2.8,1.93,2.5,1.79,Almere City  Roda,100,447,Almere City  Roda,2.35,3.25,2.9,1.97,2.5,1.78
-49,1.52,4.5,5.5,2.32,2.5,1.55,De Graafschap AZ Alkmaar 2,1.55,4.35,5.4,2.4,2.5,1.52,De Graafschap  Jong AZ Alkmaar,87,439,De Graafschap  Jong AZ Alkmaar,1.52,4.05,5.7,2.35,2.5,1.55
-50,4.9,4.15,1.62,2.23,2.5,1.6,Den Bosch Heracles,4.9,4.05,1.65,2.3,2.5,1.55,Den Bosch  Heracles Almelo,84,441,Den Bosch  Heracles Almelo,5.15,3.80,1.62,2.16,2.5,1.65
-51,1.9,3.85,3.6,2.23,2.5,1.6,Den Haag PSV 2,1.93,3.7,3.65,2.28,2.5,1.57,Den Haag  Jong PSV,77,440,Den Haag  Jong PSV,1.87,3.55,3.8,2.24,2.5,1.60
-52,1.48,4.5,6.0,2.35,2.5,1.55,Eindhoven Dordrecht,1.48,4.35,6.5,2.22,2.5,1.59,Eindhoven  Dordrecht,100,445,Eindhoven  Dordrecht,1.46,4.20,6.5,2.3,2.5,1.57
+0,1.88,3.75,3.2,2.55,2.5,1.45,Wiener Sport Club Mauerwerk,1.92,3.8,3.25,2.55,2.5,1.46,Wiener SK  Mauerwerk,78,511,Wiener SK  Mauerwerk,1.71,3.85,3.5,2.45,2.5,1.43
+1,2.5,3.2,2.5,1.95,2.5,1.75,Traiskirchen TWL Elektra,2.5,3.35,2.55,2.18,2.5,1.61,Traiskirchen  ASK Elektra,83,510,Traiskirchen  ASK Elektra,2.75,3.30,2.25,1.94,2.5,1.71
+2,12.8,5.45,1.18,2.45,2.5,1.5,Vocklamarkt WSC Wels,15.0,6.0,1.17,2.45,2.5,1.49,Un. Vocklamarkt  WSC Herta Wels,82,505,Un. Vocklamarkt  WSC Herta Wels,9.75,5.80,1.2,5.0,2.5,1.38
+3,3.9,3.3,1.9,1.7,2.5,2.03,Bastia Borgo Versailles,4.25,3.3,1.89,1.7,2.5,2.05,Bastia-Borgo  Versailles,100,247,Bastia-Borgo  Versailles,4.20,3.35,1.85,1.68,2.5,2.10
+4,1.75,3.55,4.35,1.75,2.5,1.98,Bourg en Bresse Sedan,1.72,3.5,5.0,1.74,2.5,1.99,Bourg Péronnas  Sedan,70,246,Bourg Péronnas  Sedan,1.66,3.45,4.8,1.73,2.5,1.96
+5,1.9,3.2,4.0,1.6,2.5,2.18,Dunkerque Stade Briochin,1.94,3.2,4.1,1.64,2.5,2.15,Dunkerque  Stade Briochin,100,249,Dunkerque  Stade Briochin,1.89,3.15,4.0,1.58,2.5,2.19
+6,1.6,4.0,4.9,2.05,2.5,1.7,Le Mans Avranches,1.61,3.8,5.4,2.12,2.5,1.64,Le Mans  Avranches,100,248,Le Mans  Avranches,1.64,3.75,4.75,2.04,2.5,1.69
+7,3.95,3.1,1.95,1.6,2.5,2.18,Le Puy Red Star,4.3,3.35,1.85,1.6,2.5,2.22,Le Puy  Red Star 93,91,242,Le Puy  Red Star 93,3.50,3.10,2.05,1.58,2.5,2.19
+8,2.0,3.6,3.25,1.9,2.5,1.8,FC Martigues Paris 13 Atletico,2.0,3.4,3.6,1.95,2.5,1.77,Martigues  Paris 13 Atletico,95,243,Martigues  Paris 13 Atletico,1.95,3.15,3.75,1.59,2.5,2.16
+9,1.8,3.5,4.1,1.8,2.5,1.9,Nancy Cholet,1.79,3.55,4.35,1.84,2.5,1.87,Nancy  Cholet,100,245,Nancy  Cholet,1.76,3.40,4.25,1.77,2.5,1.91
+10,2.7,3.0,2.6,1.6,2.5,2.17,Orleans Villefranche,2.9,3.0,2.55,1.57,2.5,2.28,Orleans  Villefranche,100,244,Orleans  Villefranche,2.40,3.10,3.0,1.62,2.5,2.20
+11,1.8,4.1,3.5,2.85,2.5,1.37,VV Alkmaar W Excelsior W,1.92,4.1,3.05,3.2,2.5,1.3,VV Alkmaar (W)  Excelsior (W),100,450,VV Alkmaar (W)  Excelsior (W),1.79,4.10,3.35,3.05,2.5,1.32
+12,1.18,6.7,11.4,3.2,2.5,1.3,Feyenoord Rotterdam W SC Telstar VVNH W,1.14,7.5,13.0,3.2,2.5,1.29,Feyenoord (W)  Telstar (W),70,452,Feyenoord (W)  Telstar (W),1.20,5.60,8.5,0.0,2.5,1.29
+13,4.2,4.2,1.65,2.6,2.5,1.45,Zwolle W Fortuna Sittard W,4.45,4.05,1.62,2.65,2.5,1.42,PEC Zwolle (W)  Fortuna Sittard (W),93,451,PEC Zwolle (W)  Fortuna Sittard (W),3.80,4.00,1.71,2.5,2.5,1.44
+14,1.7,3.9,4.2,2.2,2.5,1.6,Hannover 2 Hildesheim,1.64,3.9,4.5,2.28,2.5,1.56,Hannover II  Borussia 06 Hildesheim,73,301,Hannover II  Borussia 06 Hildesheim,1.77,3.75,3.65,2.19,2.5,1.55
+15,1.85,3.8,3.55,2.2,2.5,1.6,Oberhausen Duren,1.78,3.8,3.75,2.3,2.5,1.55,Oberhausen  Duren,100,310,Oberhausen  Duren,1.96,3.60,3.25,2.19,2.5,1.58
+16,2.45,3.65,2.5,2.43,2.5,1.5,Yverdon Aarau,2.38,3.65,2.65,2.55,2.5,1.45,Yverdon  Aarau,100,523,Yverdon  Aarau,2.30,3.70,2.6,2.4,2.5,1.51
+17,1.6,4.3,4.05,2.95,2.5,1.35,Neusiedl Wiener Viktoria,1.53,4.7,4.45,2.85,2.5,1.37,Neusiedl  Wiener Viktoria,100,512,Neusiedl  Wiener Viktoria,1.73,3.90,3.65,2.65,2.5,1.38
+18,4.65,4.05,1.55,2.65,2.5,1.4,Wiener Neustadt Marchfeld,4.55,4.2,1.58,2.55,2.5,1.45,SC Wiener Neustadter  Marchfeld,91,513,SC Wiener Neustadter  Marchfeld,4.75,4.35,1.41,2.8,2.5,1.33
+19,1.88,3.75,3.2,2.55,2.5,1.45,Wiener Sport Club Mauerwerk,1.92,3.8,3.25,2.55,2.5,1.46,Wiener SK  Mauerwerk,78,511,Wiener SK  Mauerwerk,1.71,3.85,3.5,2.45,2.5,1.43
+20,2.5,3.2,2.5,1.95,2.5,1.75,Traiskirchen TWL Elektra,2.5,3.35,2.55,2.18,2.5,1.61,Traiskirchen  ASK Elektra,83,510,Traiskirchen  ASK Elektra,2.75,3.30,2.25,1.94,2.5,1.71
+21,12.8,5.45,1.18,2.45,2.5,1.5,Vocklamarkt WSC Wels,15.0,6.0,1.17,2.45,2.5,1.49,Un. Vocklamarkt  WSC Herta Wels,82,505,Un. Vocklamarkt  WSC Herta Wels,9.75,5.80,1.2,5.0,2.5,1.38
+22,3.9,3.3,1.9,1.7,2.5,2.03,Bastia Borgo Versailles,4.25,3.3,1.89,1.7,2.5,2.05,Bastia-Borgo  Versailles,100,247,Bastia-Borgo  Versailles,4.20,3.35,1.85,1.68,2.5,2.10
+23,1.95,3.8,3.15,2.65,2.5,1.4,Brighton & H. U21 Tottenham U21,2.0,3.7,3.15,2.7,2.5,1.41,Brighton U21  Tottenham U21,96,170,Brighton U21  Tottenham U21,1.82,3.90,3.15,2.65,2.5,1.36
+24,1.9,3.8,3.4,2.43,2.5,1.5,Fulham U21 Everton U21,1.9,3.75,3.35,2.5,2.5,1.47,Fulham U21  Everton U21,100,172,Fulham U21  Everton U21,1.74,3.95,3.6,2.45,2.5,1.44
+25,2.2,3.7,2.6,2.75,2.5,1.4,Aston Villa U21 West Bromwich Albion U21,2.15,3.7,2.8,3.2,2.5,1.3,Aston Villa U21  West Bromwich U21,90,171,Aston Villa U21  West Bromwich U21,1.87,4.05,3.05,3.0,2.5,1.30
+26,1.25,5.65,7.4,3.55,2.5,1.25,Leeds United U21 Stoke City U21,1.33,6.0,5.9,3.3,2.5,1.28,Leeds U21  Stoke U21,76,169,Leeds U21  Stoke U21,1.45,4.70,4.9,3.2,2.5,1.27
+27,1.75,4.0,3.5,2.95,2.5,1.35,Middlesbrough U21 Newcastle United U21,1.77,4.0,3.65,3.0,2.5,1.34,Middlesbrough U21  Newcastle U21,90,173,Middlesbrough U21  Newcastle U21,1.74,4.20,3.4,3.1,2.5,1.28
+28,1.4,4.75,5.6,3.2,2.5,1.3,Norwich City U21 Derby County U21,1.42,4.7,5.9,3.55,2.5,1.25,Norwich U21  Derby County U21,92,168,Norwich U21  Derby County U21,1.53,4.45,4.05,3.35,2.5,1.23
+29,2.35,3.4,2.95,1.9,2.5,1.8,Almere City Roda,2.35,3.4,3.0,1.95,2.5,1.77,Almere City  Roda,100,447,Almere City  Roda,2.35,3.25,2.9,1.97,2.5,1.78
+30,1.58,4.35,5.05,2.32,2.5,1.55,De Graafschap AZ Alkmaar 2,1.66,4.15,4.65,2.4,2.5,1.52,De Graafschap  Jong AZ Alkmaar,87,439,De Graafschap  Jong AZ Alkmaar,1.52,4.05,5.7,2.35,2.5,1.55
+31,4.9,4.15,1.62,2.23,2.5,1.6,Den Bosch Heracles,4.95,4.05,1.64,2.28,2.5,1.57,Den Bosch  Heracles Almelo,84,441,Den Bosch  Heracles Almelo,5.15,3.80,1.62,2.16,2.5,1.65
+32,1.9,3.85,3.6,2.23,2.5,1.6,Den Haag PSV 2,1.91,3.75,3.7,2.3,2.5,1.55,Den Haag  Jong PSV,77,440,Den Haag  Jong PSV,1.87,3.55,3.8,2.24,2.5,1.60
+33,1.48,4.35,6.3,2.23,2.5,1.6,Eindhoven Dordrecht,1.46,4.4,6.75,2.22,2.5,1.6,Eindhoven  Dordrecht,100,445,Eindhoven  Dordrecht,1.46,4.20,6.5,2.3,2.5,1.57
+34,2.0,3.55,3.6,1.85,2.5,1.85,Helmond Oss,2.12,3.35,3.4,1.9,2.5,1.81,Helmond Sport  FC Oss,71,442,Helmond Sport  FC Oss,1.96,3.35,3.75,1.95,2.5,1.79
+35,1.42,4.45,6.4,2.07,2.5,1.67,Luebeck Atlas Delmenhorst,1.39,4.8,6.2,2.18,2.5,1.61,Lubeck  Atlas Delmenhorst,98,302,Lubeck  Atlas Delmenhorst,1.47,4.05,5.6,2.0,2.5,1.67
+36,1.75,3.15,5.0,1.4,2.5,2.75,Biskra MC Magra,1.69,3.3,5.75,1.37,2.5,2.88,Biskra  Magra,89,576,Biskra  Magra,1.76,3.15,4.75,1.42,2.5,2.60
+37,2.2,3.3,3.05,1.95,2.5,1.75,Virton Club Brugge KV U23,2.0,3.55,3.45,1.91,2.5,1.81,Excelsior Virton  Club Brugge U23,81,465,Excelsior Virton  Club Brugge U23,2.22,3.45,3.0,2.01,2.5,1.75
+38,1.5,5.0,5.65,3.9,2.5,1.28,PEC Zwolle Ajax 2,1.54,4.6,5.2,3.45,2.5,1.27,PEC Zwolle  Jong Ajax,81,446,PEC Zwolle  Jong Ajax,1.49,4.55,5.4,3.4,2.5,1.29
+39,1.32,5.8,10.8,2.38,2.5,1.6,Sporting Gil Vicente,1.34,5.3,9.5,2.3,2.5,1.61,Sporting L.  Gil Vicente,95,474,Sporting L.  Gil Vicente,1.31,4.95,9.75,2.25,2.5,1.65
+40,1.45,4.8,6.2,2.85,2.5,1.4,Lausanne Wil,1.48,4.6,5.7,2.85,2.5,1.38,Lausanne  Wil,100,524,Lausanne  Wil,1.55,4.25,5.05,2.45,2.5,1.51
+41,1.65,3.85,4.45,2.42,2.5,1.5,Thun Xamax,1.65,4.05,4.6,2.4,2.5,1.52,Thun  Xamax,100,525,Thun  Xamax,1.60,4.10,4.55,2.4,2.5,1.51
+42,2.15,3.5,3.0,2.05,2.5,1.7,St. Polten Amstetten,2.3,3.5,2.95,2.18,2.5,1.62,St. Polten  Amstetten,100,494,St. Polten  Amstetten,2.07,3.55,3.3,2.08,2.5,1.76
+43,12.2,6.6,1.17,3.05,2.5,1.32,Genk W Anderlecht W,12.0,6.2,1.16,3.1,2.5,1.31,Genk (W)  Anderlecht (W),100,472,Genk (W)  Anderlecht (W),9.25,6.00,1.2,,2.5,1.69
+44,2.75,3.2,2.6,1.7,2.5,2.03,Cosenza Como,2.75,3.2,2.65,1.71,2.5,2.1,Cosenza  Como,100,383,Cosenza  Como,2.70,3.00,2.7,1.66,2.5,2.15
+45,1.4,6.05,7.4,3.7,2.5,1.3,Bayern Munich Bayer Leverkusen,1.4,5.75,7.0,3.65,2.5,1.31,Bayern München  B. Leverkusen,86,258,Bayern München  B. Leverkusen,1.38,5.35,6.5,3.55,2.5,1.30
+46,1.72,4.1,4.2,2.23,2.5,1.6,NAC Breda Venlo,1.72,3.85,4.55,2.35,2.5,1.54,NAC Breda  VVV-Venlo,88,444,NAC Breda  VVV-Venlo,1.72,3.70,4.4,2.3,2.5,1.58
+47,5.4,4.3,1.55,2.23,2.5,1.6,Maastricht Willem II,5.7,4.55,1.51,2.35,2.5,1.53,MVV  Willem II,67,443,MVV  Willem II,5.30,3.90,1.58,2.26,2.5,1.60
+48,1.75,3.7,4.45,1.97,2.5,1.75,Telstar Utrecht 2,1.8,4.0,3.95,1.98,2.5,1.75,Telstar  Jong Utrecht,86,448,Telstar  Jong Utrecht,1.93,3.40,3.75,2.0,2.5,1.75
+49,1.53,4.15,4.7,2.5,2.5,1.47,Enfield Town Corinthian Casuals,1.49,4.3,5.4,2.5,2.5,1.46,Enfield Town  Corinthian Casuals,100,142,Enfield Town  Corinthian Casuals,1.42,4.25,5.25,2.4,2.5,1.45
+50,4.5,3.7,1.7,1.85,2.5,1.85,Treaty United Galway,4.55,3.5,1.71,1.91,2.5,1.79,Ayr United  Inverness CT,60,555,Ayr United  Inverness CT,2.08,3.45,3.35,1.81,2.5,2.01
+51,4.55,3.9,1.85,2.02,2.5,1.8,Angers Marseille,4.7,3.7,1.85,2.07,2.5,1.8,Angers  Marseille,100,220,Angers  Marseille,4.20,3.60,1.85,2.05,2.5,1.78
+52,1.4,5.05,9.3,2.1,2.5,1.73,Athletic Bilbao Almeria,1.42,5.1,8.25,2.12,2.5,1.75,Athletic Bilbao  Almeria,100,175,Athletic Bilbao  Almeria,1.42,4.50,8.25,2.1,2.5,1.78
+53,2.25,2.85,3.7,1.45,2.5,2.6,Tenerife Gijon,2.28,2.95,3.6,1.44,2.5,2.7,Tenerife  Sporting Gijon,76,186,Tenerife  Sporting Gijon,2.21,2.90,3.6,1.46,2.5,2.60
+54,1.65,4.25,5.1,2.08,2.5,1.75,Standard Liege RFC Seraing,1.69,3.9,4.95,2.02,2.5,1.77,Standard  Seraing,76,454,Standard  Seraing,1.62,3.90,5.2,2.1,2.5,1.75
+55,2.05,3.65,3.05,2.55,2.5,1.45,Needham Market Brightlingsea,2.07,3.55,3.2,2.62,2.5,1.43,Needham  Brightlingsea Regent,75,74,Needham  Brightlingsea Regent,1.98,3.80,3.15,2.55,2.5,1.45
+56,1.43,4.2,5.7,2.25,2.5,1.57,HSC Montpellier W Bordeaux W,1.44,4.4,6.1,2.22,2.5,1.58,Montpellier (W)  Bordeaux (W),92,256,Montpellier (W)  Bordeaux (W),1.42,4.15,5.5,2.19,2.5,1.53
+57,2.1,3.5,2.9,1.97,2.5,1.75,AC Juvenes/Dogana SS Murata,2.3,3.35,2.8,1.94,2.5,1.76,Juvenes/Dogana  Murata,88,573,Juvenes/Dogana  Murata,2.14,3.35,2.9,1.9,2.5,1.74
+58,1.85,3.8,4.5,2.05,2.5,1.78,Porto Braga,1.87,3.7,4.2,2.07,2.5,1.76,Porto  Braga,100,475,Porto  Braga,1.80,3.70,4.35,2.15,2.5,1.71
+59,2.15,3.2,3.05,1.73,2.5,1.98,Caracas Deportivo La Guaira,2.28,3.1,3.2,1.7,2.5,2.04,Fuenlabrada  Linares Deportivo,61,200,Fuenlabrada  Linares Deportivo,1.99,3.20,3.4,1.67,2.5,1.99
+60,2.5,2.85,3.2,1.4,2.5,2.75,Operario Vila Nova,2.5,2.75,3.25,1.34,2.5,3.05,Novara  Vicenza,62,395,Novara  Vicenza,2.20,3.15,2.85,1.75,2.5,1.85
+61,3.05,3.4,2.35,1.75,2.5,2.1,Hull Luton,3.1,3.25,2.38,1.75,2.5,2.1,Hull  Luton,100,85,Hull  Luton,3.20,3.15,2.3,1.7,2.5,2.17
